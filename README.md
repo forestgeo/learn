@@ -1,4 +1,4 @@
-## Linkks to interesting articles, videos, tutorials, guidelines, tips, etc.
+## Links to interesting articles, videos, tutorials, guidelines, tips, etc.
 
 To find something go to [issues](https://github.com/forestgeo/learn/issues) and start typing on the search field. For example:
 
